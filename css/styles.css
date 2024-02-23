@@ -54,7 +54,10 @@ ul {
   color: #ffffff;
 }
 button {
-  font: 500 16px / 1.5 "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 61px;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   text-align: center;
   color: #fff;
