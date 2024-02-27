@@ -24,6 +24,7 @@ a {
 }
 .link-adres {
   color: #434455;
+  gap: 40px;
 }
 .link-adres:hover,
 .link-adres:focus {
